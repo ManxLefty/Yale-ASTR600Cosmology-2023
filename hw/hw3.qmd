@@ -62,7 +62,7 @@ $$
 \Omega_{\nu,0} h^2 \approx \frac{m_{\nu}}{94 \,\mathrm{eV}}
 $$
 
-/clearpage
+\clearpage
 
 
 ## 3. Measuring the Expansion History with Standard Candles
