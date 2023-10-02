@@ -25,6 +25,7 @@ Make a plot of the luminosity and angular diameter distances as a function of re
 Compare these (on the same plot) to the luminosity/angular diameter distance for an $\Omega_{m,0}=1$ universe.
 
 Make sure to label your axes. Comment on the non-monotonicity of the angular diameter distance. 
+
 ### Looking Back
 
 At the colloquium last week, the speaker mentioned that a redshift of 2-3 roughly corresponds to 10 billion years ago. Find the redshift that is 10 billion years ago (three significant figures only).
@@ -60,6 +61,8 @@ where $\rho_{\nu,0}$ is the energy density of massless neutrinos.
 $$
 \Omega_{\nu,0} h^2 \approx \frac{m_{\nu}}{94 \,\mathrm{eV}}
 $$
+
+/clearpage
 
 
 ## 3. Measuring the Expansion History with Standard Candles
