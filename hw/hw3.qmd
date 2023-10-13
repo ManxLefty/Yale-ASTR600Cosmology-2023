@@ -13,7 +13,7 @@ execute:
 
 ## 1. Reviewing the Background
 
-The following are meant to be short problems, just to review key parts of the homogeneous expansion of the Universe. If not specified, assume a cosmology with $\Omega_{m,0}=0.3$, $\Omega_{\Lambda}=0.7$ and $h=0.7$. 
+The following are meant to be short problems, just to review key parts of the homogeneous expansion of the Universe. If not specified, assume a cosmology with $\Omega_{m,0}=0.3$, $\Omega_{\Lambda,0}=0.7$ and $h=0.7$. 
 
 ### Density Parameters
 
